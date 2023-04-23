@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permission Checker</string>
+    <string name="application_icon">Application Icon</string>
+    <string name="application_name">Application Name</string>
+    <string name="permissions">Permissions</string>
+    <string name="chenge_permissions">Change Permissions</string>
+</resources>
